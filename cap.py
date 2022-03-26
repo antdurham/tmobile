@@ -3,7 +3,7 @@ def cap_text(text):
 
 
 
-hw =cap_text('ello World!')
+hw =cap_text('Hello World!')
 print(hw)
 
 
